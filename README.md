@@ -18,7 +18,8 @@ I'm a passionate student who loves diving into both code and creativity. Whether
 - **App Development:** Creating fun and interesting apps
 - **Music Creation:** Covering, writing and producing music tracks
 ## My stats
-
+Most of my repositories are private, so you can see my abysmal public stats.
+<br><br>
 ![IcosagonZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcosagonZ&show_icons=true&theme=tokyonight)
 
 ## GitHub Trophies
