@@ -8,7 +8,7 @@ I'm a passionate student who loves diving into both code and creativity. Whether
 
 ## 🛠️ Skills 
 
-[Skills](https://skillicons.dev/icons?i=python,c,java,gtk,html,js,css,react,nodejs,materialui,fastapi,mysql,arduino,blender,figma,godot,unreal,figma,debian,linux,raspberrypi) !
+![Skills](https://skillicons.dev/icons?i=python,c,java,gtk,html,js,css,react,nodejs,materialui,fastapi,mysql,arduino,blender,figma,godot,unreal,figma,debian,linux,raspberrypi)!
 
 - **Languages:** Python, C, Java, HTML, CSS, JS
 - **Web & UI:** React, Material UI, GTK
