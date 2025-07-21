@@ -7,7 +7,7 @@ I'm a passionate student who loves diving into both code and creativity. Whether
 - 🌱 I’m currently learning web development
 
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,gtk,html,js,css,react,nodejs,materialui,fastapi,mysql,arduino,blender,figma,godot,unreal,figma,debian,linux,raspberrypi)](https://skillicons.dev)
+[My Skills](https://skillicons.dev/icons?i=python,c,java,gtk,html,js,css,react,nodejs,materialui,fastapi,mysql,arduino,blender,figma,godot,unreal,figma,debian,linux,raspberrypi)]
 
 - **Languages:** Python, C, Java, HTML, CSS, JS
 - **Web & UI:** React, Material UI, GTK
@@ -23,10 +23,10 @@ Most of my repositories are private, so you can see my abysmal public stats.
 <br><br>
 ![IcosagonZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcosagonZ&show_icons=true&theme=tokyonight&hide_border=true)
 
-![IcosagonZ' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IcosagonZ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![IcosagonZ's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IcosagonZ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IcosagonZ&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=IcosagonZ&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 
