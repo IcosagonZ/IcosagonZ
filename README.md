@@ -23,6 +23,8 @@ Most of my repositories are private, so you can see my abysmal public stats.
 <br><br>
 ![IcosagonZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcosagonZ&show_icons=true&theme=tokyonight)
 
+![IcosagonZ' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IcosagonZ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact
+
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IcosagonZ&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
