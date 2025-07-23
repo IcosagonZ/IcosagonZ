@@ -22,10 +22,10 @@ I'm a passionate student who loves diving into both code and creativity. Whether
 ## My stats
 
 <a href="">
-  <img height=190 align="center" src="https://github-readme-stats-nu-blond-25.vercel.app/api/top-langs/?username=IcosagonZ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=20" />
+  <img height=190 align="center" src="https://github-readme-stats-nu-blond-25.vercel.app/api/?username=IcosagonZ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats-nu-blond-25.vercel.app/api?username=IcosagonZ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)" />
+  <img height=200 align="center" src="https://github-readme-stats-nu-blond-25.vercel.app/api/top-langs/?username=IcosagonZ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&layout=compact" />
 </a>
 
 
