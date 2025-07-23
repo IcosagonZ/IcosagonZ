@@ -22,7 +22,7 @@ I'm a passionate student who loves diving into both code and creativity. Whether
 ## My stats
 Most of my repositories are private, so you can see my abysmal public stats.
 <br><br>
-![IcosagonZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcosagonZ&show_icons=true&theme=tokyonight&hide_border=true)
+![IcosagonZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcosagonZ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![IcosagonZ's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IcosagonZ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
