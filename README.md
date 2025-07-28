@@ -2,17 +2,17 @@
 
 ## ⚡ About Me
 
-I'm a passionate student who loves diving into both code and creativity. Whether I'm building interactive worlds or composing new tunes, I'm always exploring how technology and art can work together.
-- 🔭 I’m currently working on game development and full stack web development
+I'm a passionate student who loves diving into both code and creative stuff. Whether I'm building interactive worlds or composing new tunes, I'm always exploring how technology and art can work together.
+- 🔭 I’m currently working on game development
 - 🌱 I’m currently learning web development
 
 ## 🛠️ Skills 
 
 ![Skills](https://skillicons.dev/icons?i=python,c,java,rust,gtk,html,js,css,react,nodejs,materialui,fastapi,mysql,arduino,blender,figma,godot,unreal,figma,debian,linux,raspberrypi)
 
-- **Languages:** Python, C, Java, HTML, CSS, JS
+- **Languages:** C, Rust, Python, Java, HTML, CSS, JS
 - **Web & UI:** React, Material UI, GTK
-- **Game Engines:** Godot, Unreal Engine
+- **Game Engines:** Godot, Unreal Engine, Unity
 
 ## 🎮 Hobbies
 
