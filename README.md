@@ -10,7 +10,7 @@ I'm a passionate student who loves diving into both code and creative stuff. Whe
 
 ![Skills](https://skillicons.dev/icons?i=python,c,java,gtk,html,js,css,react,nodejs,materialui,fastapi,mysql,arduino,blender,figma,godot,figma,debian,linux,raspberrypi)
 
-- **Languages:** C, Rust, Python, Java, HTML, CSS, JS
+- **Languages:** C, Python, Java, HTML, CSS, JS
 - **Web & UI:** React, Material UI, GTK
 - **Game Engines:** Godot, Unreal Engine, Unity
 
