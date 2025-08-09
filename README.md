@@ -12,7 +12,7 @@ I'm a passionate student who loves diving into both code and creative stuff. Whe
 
 - **Languages:** C, Python, Java, HTML, CSS, JS
 - **Web & UI:** React, Material UI, GTK
-- **Game Engines:** Godot, Unreal Engine, Unity
+- **Game Engines:** Godot, Unreal Engine
 
 ## 🎮 Hobbies
 
