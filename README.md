@@ -4,14 +4,14 @@
 
 I'm a passionate student who loves diving into both code and creative stuff. Whether I'm building interactive worlds or composing new tunes, I'm always exploring how technology and art can work together.
 - 🔭 I’m currently working on game development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web/app development
 
 ## 🛠️ Skills 
 
-![Skills](https://skillicons.dev/icons?i=python,c,java,gtk,html,js,css,react,nodejs,materialui,fastapi,mysql,arduino,blender,figma,godot,figma,debian,linux,raspberrypi)
+![Skills](https://skillicons.dev/icons?i=python,c,java,dart,gtk,flutter,html,js,css,react,nodejs,materialui,fastapi,mysql,arduino,blender,figma,godot,figma,debian,linux,raspberrypi)
 
-- **Languages:** C, Python, Java, HTML, CSS, JS
-- **Web & UI:** React, Material UI, GTK
+- **Languages:** C, Python, Java, Dart, HTML, CSS, JS
+- **Web & UI:** Flutter, React, Material UI, GTK
 - **Game Engines:** Godot, Unreal Engine
 
 ## 🎮 Hobbies
