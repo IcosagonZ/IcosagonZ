@@ -2,23 +2,39 @@
 
 ## ⚡ About Me
 
-I'm a passionate student who loves diving into both code and creative stuff. Whether I'm building interactive worlds or composing new tunes, I'm always exploring how technology and art can work together.
-- 🔭 I’m currently working on game development
-- 🌱 I’m currently learning web/app development
+I'm a passionate student who loves diving into both code and art. I love doing complex projects, learning by myself from documentations and trying out new libraries.
+- 🔭 I’m currently working on app and game development
+- 🌱 I’m currently learning app development
+
+## Projects 
+
+### Projects I am working on
+- **HealthStat**: a comprehensive health tracking app made in Flutter like Google Fit or Apple Health, I plan to integrate AI and cloud storage of data
+- **QuickDine**: a restaurant booking app made using React and Material UI
+- **EscapeRoom**: a horror game made with Unity in which player tries to escape a room which is like a maze, made as part of game development club
+- **EscapeMaze**: a simple horror game made Godot which player tries to avoids ghosts which are attracted to light, find keys and unlock gates
+- **Platformer**: a simple 2D platformer made in Godot as part of game development club
+
+### Projects I have done
+- **RoboGUI**: a robot control interface made using GTK, C (and python), uses Sockets to communicate with the robot and also retrives live footage via embedded browser
+- **SparkStore**: a shopping app like Amazon, made using Python, KivyMD with MySQL for data storage
+- **Stocks/Stock-Slint**: a simple stock tracking app made in flutter (and also in rust with slint)
+- **SimpleRPG**: a simple 2D RPG game made as instruction/guide part of game development club
 
 ## 🛠️ Skills 
 
 ![Skills](https://skillicons.dev/icons?i=python,c,java,dart,gtk,flutter,html,js,css,react,nodejs,materialui,fastapi,mysql,arduino,blender,figma,godot,figma,debian,linux,raspberrypi)
 
-- **Languages:** C, Python, Java, Dart, HTML, CSS, JS
+- **Languages:** Python, Dart, C, Java, HTML, CSS, JS
 - **Web & UI:** Flutter, React, Material UI, GTK
-- **Game Engines:** Godot, Unreal Engine
+- **Game Engines:** Godot, Unity, Unreal Engine
 
 ## 🎮 Hobbies
 
-- **Game Development:** Designing, coding, and bringing games to life
-- **App Development:** Creating fun and interesting apps
+- **Game Development:** Designing, coding, and bringing fun games to life
+- **App Development:** Creating fun, interesting and complex apps
 - **Music Creation:** Covering, writing and producing music tracks
+
 ## My stats
 
 <a href="">
