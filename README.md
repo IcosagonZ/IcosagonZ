@@ -3,7 +3,7 @@
 ## ⚡ About Me
 
 I'm a passionate student who loves diving into both code and art. I love doing complex projects, learning by myself from documentations and trying out new libraries.
-- 🔭 I’m currently working on app and game development
+- 🔭 I’m currently working on app development
 - 🌱 I’m currently learning app development
 
 ## Projects 
