@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I am IcosagonZ</h1>
 
-I am a student who is interested in app development and game development projects. 
+I am a student who is interested in app development, hardware projects and game development projects. 
 I learn by myself doing somewhat complex but still simple projects by reading getting started pages and documentations of various frameworks I want to learn.
 
-- **Languages I know well:** Python, Dart, Java, HTML, CSS
+- **Languages I know well:** Python, Dart, Java, HTML, CSS, SQL, C++
 - **Web & UI frameworks I have used:** Flutter, React, Material UI, GTK
 - **Game Engines I have used:** Godot, Unity, Unreal Engine
 
