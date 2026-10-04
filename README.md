@@ -34,10 +34,10 @@ Some of the notable projects I have made are :
 
 <p align="center">
   <a href="">
-  <img height=190 align="center" src="https://github-readme-stats-nu-blond-25.vercel.app/api/?username=IcosagonZ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height=190 align="center" src="https://github-readme-stats-fast.vercel.app/api/?username=IcosagonZ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats-nu-blond-25.vercel.app/api/top-langs/?username=IcosagonZ&show_icons=true&theme=tokyonight&hide_border=true&hide=slint,astro,shaderlab,hlsl&include_all_commits=true&count_private=true&langs_count=8&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IcosagonZ&show_icons=true&theme=tokyonight&hide_border=true&hide=slint,astro,shaderlab,hlsl&include_all_commits=true&count_private=true&langs_count=8&layout=compact" />
 </a>
 </p>
 
